@@ -1,4 +1,4 @@
-# 📞 Telecom Customer Churn Risk Hub & Prediction Pipeline
+# 📞 Telecom Customer Retention & Customer Risk Hub
 
 ## 📌 Executive Summary
 Customer retention is a vital driver of profitability in the subscription and telecom space. This project develops an end-to-end machine learning pipeline that flags high-risk subscribers *before* they cancel their service. 
